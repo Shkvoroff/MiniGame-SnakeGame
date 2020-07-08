@@ -1,4 +1,4 @@
-# Mini Game| Snake Game
+# Mini Game | Snake Game
 > A simple snake game written as a training project
 
 ## Table of contents
